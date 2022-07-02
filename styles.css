@@ -1,0 +1,19 @@
+
+h1{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+}
+p{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+}
+.containerfluid{
+
+  background-color: black;
+  padding-left: 2rem;
+  padding-top: 5rem;
+
+  padding-bottom: 5rem;
+  padding-right: 5rem;
+
+}
